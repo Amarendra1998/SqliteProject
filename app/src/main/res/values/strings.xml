@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sqlite Project</string>
+    <string name="sdas">CREATE TABLE</string>
+</resources>
